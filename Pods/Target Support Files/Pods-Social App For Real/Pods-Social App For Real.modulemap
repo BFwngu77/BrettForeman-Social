@@ -1,0 +1,6 @@
+framework module Pods_Social_App_For_Real {
+  umbrella header "Pods-Social App For Real-umbrella.h"
+
+  export *
+  module * { export * }
+}
